@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my web</title>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0p;
+            background-color: black;
+            text-align: center;
+        }
+h1{
+    color: aquamarine;
+    font-size: 50px;
+}
+h3{
+    color: chocolate;
+    font-size: 40px;
+}
+h4{
+    color:darkcyan;
+    font-size: 30px;
+}
+p{
+    color: darksalmon;
+    font-size: 30px;
+}
+    </style>
+</head>
+
+<body>
+        <h1>
+            ! ! STRANGE BUT TRUE !!
+        </h1><br>
+        <h3>How fast does Santa have to Travel ?</h3><br>
+        <h4 id="head3"> How fast does Santa have to travel? like, what mach? How does he manage to get presents
+            everywhere on time?
+        </h4><br><br>
+        <p>
+            A scientist named Roger Highfield wrote a book called <i>The physics of Christmas:
+                From the aerodynamics of Reinder to the Thermodynamics of Turkey,</i>
+            which is a vey ry cool read. He has trackled this topic throughly and figured out the
+            following:
+            There are over 2.1 billion children under age eighteen in the world, and for sake of
+            argument. Highfield assumed that Santa would have to everyone. He would have to Marketplace
+            842 million stops, (figuring on 2.5 children per household) on Christmas Eve, travelling
+            aginst the earth's rotation. Santa actually has forty-eight hours to make rounds-a
+            little over 1/5000 of a second to reach each house and deliver the presents.
+        <p class="para">
+            This means that from a standing start. he is going from 0 to 4116 kilometres
+            per second, in 1/5000 of a second, an acceleration of 20.5 in 1/5000 of second, an
+            acceleration of 20.5 million killometers per second, an acceleration of 20.5 bilion metres per second metres
+            per second.</p>
+        <p>
+            According to Dr. Highfield, Santa achieves speeds of around 6395 times the speed of sound
+            (which is 330 metres per second) om March 6395.
+            But he is not breaking any cosmic speed limit beacuse the speed fi light is 300 miilion metres per second.
+            in
+            fact, Santa is poking along 1/145 the speed of light. even so, the speed at which
+            Santa has to tarvel is why we never see him.. and maybe why he is so appreciative of all those snakes.</p>
+    </div>
+</body>
+
+</html>
